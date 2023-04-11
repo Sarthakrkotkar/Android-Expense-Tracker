@@ -1,7 +1,6 @@
-# Spendee-Expense-Tracker-and-Budget-Manager
+
 Spendee is an Android Application developed in Android Studio using Java and Firebase Realtime Database.
 
-![Mockup](https://user-images.githubusercontent.com/68781375/124804864-60522d80-df78-11eb-8686-fd39c9cfed8a.jpg)
 
 
 ## Purpose
